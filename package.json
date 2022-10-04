@@ -1,0 +1,18 @@
+{
+  "name": "aa9-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "lottorich28✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"lottorich28",
+"เว็บหวยฮานอยหวยลาว",
+"lottovip click",
+"เว็บหวยทุกหวย",
+"แอพแทงหวยไหนดี"
+],
+  "repository": "https://github.com/setteebet/aa9-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
